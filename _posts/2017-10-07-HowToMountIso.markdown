@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "How to mount an ISO image"
+title:  "How to mount an ISO image in Linux"
 date:   2017-10-07 10:30:00 +0000
-categories: terminal iso mount
+category: Terminal_guide
+tags: [iso, mount]
 ---
 
 <img src="/images/dvd-cd-media639x426.jpg" width="800" height="320" />
