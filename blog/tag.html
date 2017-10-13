@@ -1,7 +1,7 @@
 ---
 layout:   page
 title:    Tags
-permalink: /tag/
+permalink: /blog/tag/
 ---
 
 {% comment%}
@@ -51,7 +51,7 @@ Here we generate all the tags.
       </a>
 			{% comment %}
       {% for tag in post.tags %}
-      <a class="post-tag" href="/tag/#{{ tag | slugify }}">{{ tag }}</a>
+      <a class="post-tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
       {% endfor %}
 			{% endcomment %}
     </h4>
