@@ -6,8 +6,6 @@ category: Terminal_guide
 tags: [iso, mount]
 ---
 
-<img src="/images/dvd-cd-media639x426.jpg" width="800" height="320" />
-
 In this guide I want to show you how to view or extract the contents of an ISO file without burn it on a cd. You don't need to install new software, your Linux distribution as already a program called **mount** to "open" the image directly under the Linux File System.
 
 ### Step 1 - Create the mount point
